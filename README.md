@@ -8,8 +8,6 @@ The biggest oss projects can be found below.
 ## Informative inequalities
 - Linux/Unix > Mac > Windows
 - Low-Level Languages >= High-Level Languages > Python
-- good 6 co-workers > programming alone > bad 6 co-workers
-- complex but interesting project > easy but boring project
 - Dire Straits > Pink Floyd  > Duran Duran
 ## In the web
 [My personal website](https://yves.vos.codes)
