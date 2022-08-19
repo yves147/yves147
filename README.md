@@ -12,3 +12,6 @@ The biggest oss projects can be found below.
 ## In the web
 [My personal website](https://yves.vos.codes)
 [My computer network](https://ultranetz.com)
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yves147&langs_count=4&layout=compact&theme=dark)](https://github.com/yves147?tab=repositories)
